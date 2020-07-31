@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">First App</string>
+    <string name="menu_gallery">About Me</string>
+    <string name="menu_slideshow">Contact</string>
+    <string name="name">phemika sripiriyakul</string>
+    <string name="today">Today have you smiled yet?</string>
+    <string name="nav_aboutme">About Me</string>
+    <string name="nav_contact">contact</string>
+    <string name="aboutme">about me</string>
+
+    <string name="bio">Hi, my name is Phemika Sripiriyakul.
+\n\nNickname : KHING
+\n\nBirthDay : 17:06:1999  Arg: 21 yearold.
+\n\nBlood’s Group : o
+\n\n I am currently studying at the bachelor degree level.
+\nFaculty of Science and Arts
+\nDepartment of Computer Science
+ \nat Rajamangala University of Technology Isan
+</string>
+    <string name="contact">Contact</string>
+    <string name="phone">0986176228</string>
+    <string name="face">Khing Sripiriyakul</string>
+    <string name="mail">Pamika.si@rmuti.ac.th</string>
+    <string name="pin">246/5 No.2 Ban Saw Ae
+    \nSubdistrict Hin Lek Fai
+    \nDistrict Ku Muang
+    \nProvince Buriram
+    \nPostal code 31190</string>
+
+
+</resources>

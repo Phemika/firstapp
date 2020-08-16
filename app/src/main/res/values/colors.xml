@@ -9,4 +9,6 @@
     <color name="pp">#E4B7FF</color>
     <color name="sky">#B8DEFF</color>
     <color name="green">#BFD575</color>
+    <color name="buttonLabel">#FFFFFF</color>
+
 </resources>

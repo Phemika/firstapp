@@ -17,6 +17,6 @@
         <item
             android:id="@+id/nav_add"
             android:icon="@drawable/plus"
-            android:title="@string/add" />
+            android:title="@string/add" /> 
     </group>
 </menu>
